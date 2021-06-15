@@ -17,19 +17,19 @@ https://io.adafruit.com/davidefnap/dashboards/dashbord-1
 Il progetto è ancora in fase di sviluppo. Il codice sviluppato è disponibile nella Repo privata e non è stato ancora rilasciato.
 
 
-BIBLIOGRAFIA
-[1] Parlamento Europeo, Direttiva 2010/31/UE “Energy Performance of Building Directive – Recast”, Off. J. Eur. Union (2010) 13–25.
-[2] Z. Liao, A.L. Dexter, The potential for energy saving in heating systems through improving boiler controls, Energy Build. 36 (3) (2004) 261–271.
-[3] D. Gyalistras, M. Gwerder, Use of Weather and Occupancy Forecasts for Optimal Building Climate Control (OptiControl): Two Years Progress Report – Main Report, Terrestrial Systems Ecology ETH Zurich R&D HVAC Products, Building Technologies Division, Siemens Switzerland Ltd., Zug, Switzerland, 2010.
-[4] B. Paris, J. Eynard, S. Grieu, T. Talbert, M. Polit, Heating control schemes for energy management in buildings, Energy Build. 42 (10) (2010) 1908–1917.
-[5] M.Y. Lamoudi, M. Alamir, P. Béguery, Distributed constrained model predictive control based on bundle method for building energy management, in: 50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), 2011, pp. 8118–8124.
-[6] S. Prívara, J. Sirok ˇ y, ´ L. Ferkl, J. Cigler, Model predictive control of a building heating system: the first experience, Energy Build. 43 (2) (2011) 564–572.
-[7] J. Sirok ˇ y, ´ F. Oldewurtel, J. Cigler, S. Prívara, Experimental analysis of model predictive control for an energy efficient building heating system, Appl. Energy 88 (9) (2011) 3079–3087.
-[8] J.D. Alvarez, J.L. Redondo, E. Camponogara, J. Normey-Rico, M. Berenguel, P.M. Ortigosa, Optimizing building comfort temperature regulation via model predictive control, Energy Build. 57 (2013) 361–372.
-[9] H. Huang, L. Chen, E. Hu, A new model predictive control scheme for energy and cost savings in commercial buildings: an airport terminal building case study, Build. Environ. 89 (2015) 203–216.
-[10] S. Privara, J. Cigler, Z. Vána, ˇ F. Oldewurtel, C. Sagerschnig, E. Záˇ ceková, Building modeling as a crucial part for building predictive control, Energy Build. 56 (2013) 8–22.
-[11] B. Coffey, F. Haghighat, E. Morofsky, E. Kutrowski, A software framework for model predictive control with GenOpt, Energy Build. 42 (7) (2010) 1084–1092.
-[12] C.D. Corbin, G.P. Henze, P. May-Ostendorp, A model predictive control optimization environment for real-time commercial building application, J. Build. Perform. Simul. 6 (3) (2013) 159–174.
-[13] N. Nassif, S. Kajl, R. Sabourin, Optimization of HVAC control system strategy using two-objective genetic algorithm, HVAC&R Res. 11 (3) (2005) 459–486.
-[14] H. Liu, S. Lee, M. Kim, H. Shi, J.T. Kim, K.L. Wasewar, C. Yoo, Multi-objective optimization of indoor air quality control and energy consumption minimization in a subway ventilation system, Energy Build. 66 (2013) 553–561.
-[15] F. Ascione, N. Bianco, C. De Stasio, G.M. Mauro, G.P. Vanoli, Simulation-based model predictive control by the multi-objective optimization of building energy performance and thermal comfort. Energy and Buildings, 111(2016), 131-144.
+# BIBLIOGRAFIA
+1. Parlamento Europeo, Direttiva 2010/31/UE “Energy Performance of Building Directive – Recast”, Off. J. Eur. Union (2010) 13–25.
+2. Z. Liao, A.L. Dexter, The potential for energy saving in heating systems through improving boiler controls, Energy Build. 36 (3) (2004) 261–271.
+3. D. Gyalistras, M. Gwerder, Use of Weather and Occupancy Forecasts for Optimal Building Climate Control (OptiControl): Two Years Progress Report – Main Report, Terrestrial Systems Ecology ETH Zurich R&D HVAC Products, Building Technologies Division, Siemens Switzerland Ltd., Zug, Switzerland, 2010.
+4. B. Paris, J. Eynard, S. Grieu, T. Talbert, M. Polit, Heating control schemes for energy management in buildings, Energy Build. 42 (10) (2010) 1908–1917.
+5. M.Y. Lamoudi, M. Alamir, P. Béguery, Distributed constrained model predictive control based on bundle method for building energy management, in: 50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), 2011, pp. 8118–8124.
+6. S. Prívara, J. Sirok ˇ y, ´ L. Ferkl, J. Cigler, Model predictive control of a building heating system: the first experience, Energy Build. 43 (2) (2011) 564–572.
+7. J. Sirok ˇ y, ´ F. Oldewurtel, J. Cigler, S. Prívara, Experimental analysis of model predictive control for an energy efficient building heating system, Appl. Energy 88 (9) (2011) 3079–3087.
+8. J.D. Alvarez, J.L. Redondo, E. Camponogara, J. Normey-Rico, M. Berenguel, P.M. Ortigosa, Optimizing building comfort temperature regulation via model predictive control, Energy Build. 57 (2013) 361–372.
+9. H. Huang, L. Chen, E. Hu, A new model predictive control scheme for energy and cost savings in commercial buildings: an airport terminal building case study, Build. Environ. 89 (2015) 203–216.
+10. S. Privara, J. Cigler, Z. Vána, ˇ F. Oldewurtel, C. Sagerschnig, E. Záˇ ceková, Building modeling as a crucial part for building predictive control, Energy Build. 56 (2013) 8–22.
+11. B. Coffey, F. Haghighat, E. Morofsky, E. Kutrowski, A software framework for model predictive control with GenOpt, Energy Build. 42 (7) (2010) 1084–1092.
+12. C.D. Corbin, G.P. Henze, P. May-Ostendorp, A model predictive control optimization environment for real-time commercial building application, J. Build. Perform. Simul. 6 (3) (2013) 159–174.
+13. N. Nassif, S. Kajl, R. Sabourin, Optimization of HVAC control system strategy using two-objective genetic algorithm, HVAC&R Res. 11 (3) (2005) 459–486.
+14. H. Liu, S. Lee, M. Kim, H. Shi, J.T. Kim, K.L. Wasewar, C. Yoo, Multi-objective optimization of indoor air quality control and energy consumption minimization in a subway ventilation system, Energy Build. 66 (2013) 553–561.
+15. F. Ascione, N. Bianco, C. De Stasio, G.M. Mauro, G.P. Vanoli, Simulation-based model predictive control by the multi-objective optimization of building energy performance and thermal comfort. Energy and Buildings, 111(2016), 131-144.
